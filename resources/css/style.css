@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+nav {
+    display: inline-block;
+    justify-content: flex-end;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+nav,
+h1,
+img {
+    border: darkmagenta solid 1px;
+}
+
+span {
+    width: 20px;
+}
+
